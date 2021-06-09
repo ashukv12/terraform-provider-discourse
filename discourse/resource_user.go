@@ -5,7 +5,6 @@ import (
 	"terraform-provider-discourse/client"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"log"
-	"fmt"
 	"time"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
